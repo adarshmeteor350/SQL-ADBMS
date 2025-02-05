@@ -1,7 +1,6 @@
 Name: Adarsh Chaubey
 Roll No.: L029
 MSc Data Science and AI
-Practical 5: Sharding using MongoDB
 
 
 Create a folder and in that folder make 9 files/folders with names -> primary, secondary1, secondary2, server1, server2, server3, shard1, shard2, shard3 and run the commands mentioned below
